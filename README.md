@@ -351,12 +351,6 @@ streamlit run app.py
 
 ---
 
-# 📜 License
-
-MIT License
-
----
-
 # 👨‍💻 Author
 
 Developed as a university project for the Department of Computer Science & Information Technology.
